@@ -50,28 +50,11 @@ The custom convolutional neural network (CNN) architecture developed for the "Pe
 For a visual representation of the model architecture, please see the diagram below:
 ![Model Visualization](model_visualization.png) 
 
-
-
-### **Results**
-
-Through systematic experimentation and optimization, the model achieved a notable improvement in classification accuracy on the validation set, with a final competition score of 0.318, an increase from the initial score of 0.29199. This improvement underscores the effectiveness of the applied techniques in enhancing model performance.
-Technologies Used
-
 * TensorFlow and PyTorch for model development and training
 * TPU (Tensor Processing Unit) for accelerated computation
 * Python programming language
 * Kaggle as the platform for the competition and experimentation
 
-### **Code and Resources**
-
-* Competition Notebook: [Notebook Link](https://www.kaggle.com/code/paulzhang15/petals-to-the-metal-3-21)
-* Competition Dataset: [Dataset Link](https://www.kaggle.com/competitions/tpu-getting-started/data)
-
-### **Conclusion**
-
 This project exemplifies the practical application of machine learning techniques in a real-world challenge, from data preprocessing and model building to optimization and evaluation. The experience gained in working with TPUs, managing large datasets, and refining deep learning models is invaluable for future projects in the field of AI and machine learning.
 
-### **Team Members**
-Victor Wei
-Paul Zhang
-Adarsh Chithrala
+fasilrahman505-collab/Petals-to-the-Metal-Kaggle-Competition
